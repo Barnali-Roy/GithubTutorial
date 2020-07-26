@@ -13,6 +13,11 @@ struct ContentView: View {
         VStack{
          Text("Hello, World!")
          Text("I am learning GitHub")
+            
+            
+            HStack{
+                Text("Map feature Added")
+            }
         }
     }
 }
